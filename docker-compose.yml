@@ -1,0 +1,8 @@
+version: "2.7"
+services:
+  mkdocs:
+    build: .
+    image: mkdocs
+    restart: always
+    ports:
+      - "9000:80"

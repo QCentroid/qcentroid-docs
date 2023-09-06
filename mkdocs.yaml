@@ -1,0 +1,52 @@
+
+# Project information
+site_name: Qcentroid Documentation
+site_url: https://qcentroid.github.io/qcentroid-docs/
+repo_url: https://github.com/qcentroid/qcentroid-docs/
+site_description: Qcentroid documentation.
+site_author: Qcentroid community
+
+
+nav:
+- 'Basic notions' :
+    - 'Desployment Infrastructure': deployment.md
+    - 'Local environment': development-local.md
+    - DevOps: devops/index.md
+- 'Other tools':
+    - Mkdocs: mkdocs.md
+
+
+theme:
+  name: material
+  feature:
+    tabs: true
+
+markdown_extensions:
+  - toc:
+      permalink: 
+      toc_depth: 3
+  - codehilite
+  - admonition
+  - footnotes
+  - def_list
+  - abbr
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - meta
+  - smarty
+
+plugins:
+  - search
+
+
