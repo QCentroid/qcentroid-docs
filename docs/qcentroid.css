@@ -10,7 +10,7 @@
   }
   
 body{
-  background-color: #f2f4f7;
+  background-color: var(--md-default-fg-color--lightest);
 }
 
 .md-header{
@@ -27,8 +27,12 @@ body{
   visibility: hidden;
 }
 
-.md-nav__title{
+.md-sidebar--primary .md-nav__title{
   display: none;
+}
+.md-nav--secondary .md-nav__title {
+  background: none;
+  box-shadow: none;
 }
 .md-search__form:hover {
   background-color: var(--md-default-fg-color--lightest);
