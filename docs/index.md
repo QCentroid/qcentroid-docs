@@ -1,7 +1,6 @@
-# Welcome to Qcentroid Framework
+# QCentroid Platform Documentation
+Welcome to the QCentroid Platform Documentation
 
 
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
+[Get started here](users/getting-started.md)
 

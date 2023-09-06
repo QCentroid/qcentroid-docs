@@ -1,25 +1,39 @@
 
 # Project information
-site_name: Qcentroid Documentation
+site_name: QCentroid Quantum Platform Documentation
 site_url: https://qcentroid.github.io/qcentroid-docs/
 repo_url: https://github.com/qcentroid/qcentroid-docs/
-site_description: Qcentroid documentation.
-site_author: Qcentroid community
+site_description: This is the QCentroid Platform documentation site
+site_author: QCentroid
 
 
 nav:
-- 'Basic notions' :
-    - 'Desployment Infrastructure': deployment.md
-    - 'Local environment': development-local.md
-    - DevOps: devops/index.md
-- 'Other tools':
-    - Mkdocs: mkdocs.md
-
+- 'For users' :
+    - 'Getting started': users/getting-started.md
+    - 'How to create a problem': users/create-problem.md
+    - 'How to create a solver': users/create-solver.md
+    - 'How to update an existing solver': users/update-solver.md
+    - 'How to launch a job (execute a problem)': users/launch-job-dashboard.md
+    - 'How to see a job results': users/see-job-results.md
+- 'Using the API and SDK' :
+    - 'Getting started': api/getting-started.md
+    - 'How to execute a problem': api/execute-problem-dashboard.md
+- 'For administrators' :
+    - 'Getting started': admins/getting-started.md
+    - 'Deploy the infrastructure': deployment.md
+    - 'Redeploy the platform': deployment.md
+    - 'Restar the platform': deployment.md
 
 theme:
   name: material
   feature:
     tabs: true
+  palette:
+    primary: custom
+  logo: assets/images/qcentroid_docs_logo-1-260x30.png
+
+extra_css:
+  - qcentroid.css
 
 markdown_extensions:
   - toc:
