@@ -8,21 +8,24 @@ site_author: QCentroid
 
 
 nav:
-- 'For users' :
-    - 'Getting started': users/getting-started.md
-    - 'How to create a problem': users/create-problem.md
-    - 'How to create a solver': users/create-solver.md
-    - 'How to update an existing solver': users/update-solver.md
-    - 'How to launch a job (execute a problem)': users/launch-job-dashboard.md
-    - 'How to see a job results': users/see-job-results.md
+- 'Using the Platform' :
+    - 'Getting started': platform/getting-started.md
+    - 'Navigate through the problems': platform/browse-problems.md
+    - 'How to create a problem': platform/create-problem.md
+    - 'How to create a solver': platform/create-solver.md
+    - 'How to edit an existing problem': platform/edit-problem.md
+    - 'How to update an existing solver': platform/edit-solver.md
+    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
+    - 'How to see a job results': platform/see-job-results.md
 - 'Using the API and SDK' :
     - 'Getting started': api/getting-started.md
-    - 'How to execute a problem': api/execute-problem-dashboard.md
+    - 'How to execute a problem': api/execute-problem-api.md
 - 'For administrators' :
     - 'Getting started': admins/getting-started.md
-    - 'Deploy the infrastructure': deployment.md
-    - 'Redeploy the platform': deployment.md
-    - 'Restar the platform': deployment.md
+    - 'Troubleshooting': admins/troubleshooting.md
+    - 'Deploy the infrastructure': admins/deployment.md
+    - 'Redeploy the platform': admins/deployment.md
+    - 'Restart the platform': admins/restart-platform.md
 
 theme:
   name: material

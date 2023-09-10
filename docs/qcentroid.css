@@ -9,9 +9,9 @@
     --md-accent-fg-color--dark:  #357d7a;
   }
   
-body{
+/*body{
   background-color: var(--md-default-fg-color--lightest);
-}
+}*/
 
 .md-header{
     background-color: white;

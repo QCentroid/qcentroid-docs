@@ -26,4 +26,9 @@ Contact User Support to be granted access to the platform.
 
 To use the Quantum Platform, you will want to start at the ***Problems*** section.
 
-This section show all the Use Cases currently available on the platform.
+This section shows all the Use Cases currently available on the platform.
+
+## What's next
+
+* [Navigate through the problems](browse-problems.md)
+* [Get started with the API and SDK](../api/getting-started.md)

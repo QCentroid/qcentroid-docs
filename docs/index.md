@@ -2,5 +2,5 @@
 Welcome to the QCentroid Platform Documentation
 
 
-[Get started here](users/getting-started.md)
+[Get started here](platform/getting-started.md)
 
