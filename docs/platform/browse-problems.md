@@ -24,6 +24,8 @@ You can click on any of the problems to access its details page, where you will 
 
 ## What's next
 
-* [Execute a problem](launch-job-dashboard.md)
-* [Create a problem](create-problem.md)
-* [Create a solver](create-solver.md)
+:octicons-chevron-right-12: [Execute a problem](launch-job-dashboard.md)
+
+:octicons-chevron-right-12: [Create a problem](create-problem.md)
+
+:octicons-chevron-right-12: [Create a solver](create-solver.md)

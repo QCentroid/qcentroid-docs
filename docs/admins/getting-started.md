@@ -2,4 +2,4 @@ These pages will guide you through the main features, runbooks and procedures ne
 
 ## What's next
 
-* [Visit the troubleshooting section](troubleshooting.md)
+:octicons-chevron-right-12: [Visit the troubleshooting section](troubleshooting.md)

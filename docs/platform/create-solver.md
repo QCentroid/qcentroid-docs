@@ -2,4 +2,4 @@ Create a solver
 
 ## What's next
 
-* [Edit or update an solver](edit-solver.md)
+:octicons-chevron-right-12: [Edit or update an solver](edit-solver.md)

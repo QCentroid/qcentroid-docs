@@ -3,4 +3,4 @@ Execute problem
 
 ## What's next
 
-* [See the job results](see-job-results.md)
+:octicons-chevron-right-12: [See the job results](see-job-results.md)
