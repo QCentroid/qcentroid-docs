@@ -29,8 +29,8 @@ nav:
 
 theme:
   name: material
-  feature:
-    tabs: true
+  features:
+#    - navigation.footer
   palette:
     primary: custom
   logo: assets/images/qcentroid_docs_logo-1-260x30.png
@@ -40,7 +40,7 @@ extra_css:
 
 markdown_extensions:
   - toc:
-      permalink: 
+      permalink: '#'
       toc_depth: 3
   - codehilite
   - admonition

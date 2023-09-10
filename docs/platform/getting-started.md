@@ -6,12 +6,13 @@ These pages will guide you through the main features and actions you can do on t
 
 This is the list of concepts commonly used across the platform:
 
-- **Problem**. The problem is the main entity of the platform. A problem represents a business Use Case, that can be solved using an algorithm.
-- **Solver**. A solver is an algorithm that solves a problem. You can have quantum solvers, but also classical solvers.
+- **Problem**. The problem is the main entity of the platform. A problem represents a business Use Case that can be solved using an algorithm.
+- **Solver**. A solver is an algorithm that solves a problem. You can have quantum and classical solvers.
 - **Repository**. A repository in the platform is a pointer to a Git repository where the actual code of the solver is stored.
 - **Job**. A job is an execution of the solvers of a problem. You can run all the solvers at once or select just one or just a few of them.
-- **Executor**. For each solver executed in a job, an executor is run. When all the executors of a jub have finished, the job itself also finishes and you could access the results.
-- **Credit**. A credit is the billing unit in the platform. Each job execution has a cost in credits. 
+- **Executor**. For each solver executed in a job, an executor is run. When all the executors of a job have finished, the job itself also finishes and you could access the results.
+- **Credit** is the billing unit in the platform. Each job execution has a cost in credits.
+- **Hardware provider**. Solvers are related to harware providers. These are usually Quantum Computing (QC) providers but they can also be classical computation providers.
 
 
 ## Get access to the platform

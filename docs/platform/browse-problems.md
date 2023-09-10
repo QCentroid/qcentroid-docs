@@ -1,9 +1,12 @@
+# Navigate through the problems
+
 The **Problems** section shows all the Use Cases currently available on the platform.
-Youn can access this section from the navigation menu on the right.
+
+You can access this section from the navigation menu on the right.
 
 ![Platform navigation menu](../images/platform-menu-problems.png)
 
-You will also see the **My problems** section that shows those problems that you have added to the platform.
+You will also see the **My problems** section that shows those problems that were added by you to the platform.
 
 The Problems section, will show all the problems available as shown below:
 
