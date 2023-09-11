@@ -166,4 +166,4 @@ To add a new solver to the platform:
 
 :octicons-chevron-right-12: [Execute your solver](launch-job-dashboard.md)
 
-:octicons-chevron-right-12: [Edit or update an existing solver](edit-solver.md)
+:octicons-chevron-right-12: [Edit or update this solver](edit-solver.md)
