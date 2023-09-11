@@ -23,7 +23,7 @@ If you see an error message like this one:
 
 ![Login permission error](../images/login-permission-error.png)
 
-Contact User Support to be granted access to the platform.
+contact User Support to grant you access to the platform.
 
 ## First steps
 

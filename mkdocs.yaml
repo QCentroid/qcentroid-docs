@@ -22,9 +22,11 @@ nav:
     - 'How to execute a problem': api/execute-problem-api.md
 - 'For administrators' :
     - 'Getting started': admins/getting-started.md
+    - 'Platform architecture': admins/platform-architecture.md
     - 'Troubleshooting': admins/troubleshooting.md
-    - 'Deploy the infrastructure': admins/deployment.md
-    - 'Redeploy the platform': admins/deployment.md
+    - 'Deploy the infrastructure': admins/deployment-aws-infrastructure.md
+    - 'Deploy the platform': admins/deployment-aws-platform.md
+    - 'Redeploy the platform': admins/deployment-aws-platform-redeployment.md
     - 'Restart the platform': admins/restart-platform.md
 
 theme:

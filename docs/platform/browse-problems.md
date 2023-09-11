@@ -2,7 +2,7 @@
 
 The **Problems** section shows all the Use Cases currently available on the platform.
 
-You can access this section from the navigation menu on the right.
+You can access this section from the navigation menu on the left side.
 
 ![Platform navigation menu](../images/platform-menu-problems.png)
 

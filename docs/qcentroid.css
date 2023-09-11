@@ -13,6 +13,10 @@
   background-color: var(--md-default-fg-color--lightest);
 }*/
 
+.md-content {
+  margin-bottom: 60px;
+}
+
 .md-header{
     background-color: white;
     color: var(--md-default-fg-color--light);
