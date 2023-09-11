@@ -19,6 +19,7 @@ nav:
     - 'How to see a job results': platform/see-job-results.md
 - 'Using the API and SDK' :
     - 'Getting started': api/getting-started.md
+    - 'Set up the SDK': api/setup-sdk.md
     - 'How to execute a problem': api/execute-problem-api.md
 #- 'For administrators' :
 #    - 'Getting started': admins/getting-started.md
