@@ -27,7 +27,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force --clean --verbose
+      - run: mkdocs build --verbose
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 # Deployment job
