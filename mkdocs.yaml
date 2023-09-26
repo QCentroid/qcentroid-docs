@@ -30,6 +30,7 @@ nav:
 #    - 'Deploy the platform': admins/deployment-aws-platform.md
 #    - 'Redeploy the platform': admins/deployment-aws-platform-redeployment.md
 #    - 'Restart the platform': admins/restart-platform.md
+#
 
 theme:
   name: material
