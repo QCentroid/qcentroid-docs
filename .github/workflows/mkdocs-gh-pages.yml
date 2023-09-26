@@ -24,9 +24,7 @@ jobs:
           python-version: 3.9
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - run: mkdocs build
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
+      - run: mkdocs build --verbose
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
