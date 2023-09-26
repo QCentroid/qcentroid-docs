@@ -1,4 +1,4 @@
-# Seting up the SDK
+# Setting up the SDK
 
 TBC
 
