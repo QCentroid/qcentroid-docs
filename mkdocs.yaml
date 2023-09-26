@@ -2,7 +2,7 @@
 # Project information
 site_name: QCentroid Quantum Platform Documentation
 site_url: https://qcentroid.github.io/qcentroid-docs/
-site_dir: '_site'
+site_dir: 'site'
 repo_url: https://github.com/qcentroid/qcentroid-docs/
 site_description: This is the QCentroid Platform documentation site
 site_author: QCentroid
