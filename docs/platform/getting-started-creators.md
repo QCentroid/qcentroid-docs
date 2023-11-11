@@ -9,14 +9,14 @@ To use the Quantum Platform, you will want to start at the ***Problems*** sectio
 
 This section shows all the Use Cases currently available on the platform.
 
-You can start hera to create your own problems and solvers.
+You can start here and **create a solver for one of the existing problems** or **create your own problem**.
 
 
 ## What's next
 
-:octicons-chevron-right-12: [Create a problem](create-problem.md)
-
 :octicons-chevron-right-12: [Create a solver](create-solver.md)
+
+:octicons-chevron-right-12: [Create a problem](create-problem.md)
 
 :octicons-chevron-right-12: [Get started with the API and SDK](../api/getting-started.md)
 

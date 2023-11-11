@@ -13,8 +13,8 @@ nav:
     - 'Getting started': platform/getting-started.md
     - 'For creators' :
         - 'Getting started': platform/getting-started-creators.md
-        - 'How to create a problem': platform/create-problem.md
         - 'How to create a solver': platform/create-solver.md
+        - 'How to create a problem': platform/create-problem.md
         - 'How to edit an existing problem': platform/edit-problem.md
         - 'How to update an existing solver': platform/edit-solver.md
     - 'For consumers' :

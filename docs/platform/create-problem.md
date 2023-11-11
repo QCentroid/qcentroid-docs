@@ -1,5 +1,7 @@
 # How to create a problem
 
+If your business Use Case is not already present in the platform, you can create it yourself.
+
 To add a new problem to the platform:
 
 1. Go to the section **My problems** through the left side menu
