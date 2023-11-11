@@ -4,7 +4,15 @@
 
 In this article we will go through the process of adding a new Solver to the QCentroid Platform.
 
-## Choose the problem
+This process involves **four main steps**:
+
+1. Choose the problem
+1. Implement the solver using the Solver Template and store it in a GitHub repository
+1. Connect your repoisitory to the platform
+1. Add the solver to the platform
+
+
+## 1. Choose the problem
 
 The first step is to choose the problem to be solved.
 
@@ -12,7 +20,7 @@ In the Problems section you can find all the problems available on the platform.
 
 For this tutorial we will assume that we want to solve the **QRNG** (Quantum Random Number Generation) problem (our *hello world* quantum problem!).
 
-## Implement the solver using the Solver Template
+## 2. Implement the solver using the Solver Template
 
 Once the problem has been choosen, let’s see how we could create a solver associated to this problem in order to upload it to the QCentroid platform.
 
@@ -145,21 +153,42 @@ Any libraries from the standard approved ones in **pip** will be instaled. So ma
 
 When working locally, it is very useful to create a new environment (with VirtualEnv or Conda) to make sure you don’t have dependency mixes or you are not missing anything. Start with a completely new **Python3.8** environment and add all the required modules in your `requirements.txt` file.
 
-## Add the solver to the platform
+## 3. Connect your GitHub repository to the platform
 
-Now that you have your solver tracked in your repository, you can add it to the Platform to start using it.
+Now that you have your solver source code tracked in a repository, you can connect it to the Platform to make it accessible.
+
+!!! warning "Important"
+
+    Make sure to follow all the steps in this process, specially step 3.c, where you have to go to your repository in GitHub and add the Deploy Key provided by the Platform.
+
+To connect a repository to the platform:
+
+1. Go to the section **Repositories** through the left side menu
+1. Then, on the top-right corner, click on the **Connect a new solver** button.
+1. You will get the repository connection wizzard where you can do all the required steps:
+    1. Fill the repository information: name and URL
+    1. Generate an SSH key pair to **ensure the security of your code**
+    1. **Go to your GitHub account**: *Your repository > Settings > Deploy keys* and add the generated key
+1. Click the **Connect** button at the end of the wizzard to complete the process
+
+Now you just have to wait until the process finishes.
+
+You will see your new repository marked as ***Connected*** when this is done.
+
+
+## 4. Add the solver to the platform
+
+And now that you have connected your repository, you can add the solver to the Platform to start running jobs.
 
 To add a new solver to the platform:
 
-1. Login to the platform
-2. Go to the section **My solvers** through the left side menu
-3. Then, on the top-right corner, click on the **Add new solver** button
-4. You will get the solver creation wizzard where you can fill all the information of your solver:
+1. Go to the section **My solvers** through the left side menu
+1. Then, on the top-right corner, click on the **Add new solver** button
+1. You will get the solver creation wizzard where you can fill all the information of your solver:
     - Select the problem you are solving
-    - Implement the solver (see [section above](#implement-the-solver-using-the-solver-template))
-    - Push your solver code to your repository
-    - Connect your GitHub repository to the platform
-5. Click the **Add solver** button at the end of the wizzard to save the solver.
+    - Select the GitHub repository where the code is tracked
+    - Fill in your solver details: name and description
+1. Click the **Add solver** button at the end of the wizzard to save the solver.
 
 
 ## What's next

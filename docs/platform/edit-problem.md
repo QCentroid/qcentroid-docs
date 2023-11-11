@@ -60,13 +60,18 @@ You can delete any of the problems that you have created.
 
 This action will delete the problem for you and for the the rest of the users in your organization.
 
-!!! warning "Caution"
+!!! danger "Caution"
 
     This action is irreversible.
 
 !!! warning "Caution"
 
     If you delete a problem, all the existing solvers for this problem will be disabled and will stop working.
+
+!!! tip "Tip"
+
+    Instead of deleting the problem, just disable it. It will be invisible to everybody but you, and you'll be able to re-enable it again if you want.
+
 
 To delete a problem:
 

@@ -27,7 +27,7 @@ This action will make the solver **no longer visible and usable** to the rest of
 
 !!! warning "Caution"
 
-    If you disable a salver, all the existing integrations by the consumers will stop working.
+    If you disable a solver, all the existing integrations by the consumers will stop working.
 
 To disable a solver:
 
@@ -55,13 +55,17 @@ You can delete any of the solvers that you have created.
 
 This action will delete the solver for you and for the the rest of the users in your organization.
 
-!!! warning "Caution"
+!!! danger "Caution"
 
     This action is irreversible.
 
 !!! warning "Caution"
 
-    If you delete a solver, all the existing integrations by the consumers will to stop working.
+    If you delete a solver, all the existing integrations by the consumers will stop working.
+
+!!! tip "Tip"
+
+    Instead of deleting the solver, just disable it. It will be invisible to everybody but you, and you'll be able to re-enable it again if you want.
 
 To delete a solver:
 
