@@ -22,6 +22,20 @@ nav:
     - 'Getting started': api/getting-started.md
     - 'Set up the SDK': api/setup-sdk.md
     - 'How to execute a problem': api/execute-problem-api.md
+- 'For creators' :
+    - 'Getting started': creators/getting-started.md
+    - 'How to create a problem': platform/create-problem.md
+    - 'How to create a solver': platform/create-solver.md
+    - 'How to edit an existing problem': platform/edit-problem.md
+    - 'How to update an existing solver': platform/edit-solver.md
+    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
+    - 'How to see a job results': platform/see-job-results.md
+- 'For consumers' :
+    - 'Getting started': consumers/getting-started.md
+    - 'Navigate through the problems': platform/browse-problems.md
+    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
+    - 'How to see a job results': platform/see-job-results.md
+
 #- 'For administrators' :
 #    - 'Getting started': admins/getting-started.md
 #    - 'Platform architecture': admins/platform-architecture.md
