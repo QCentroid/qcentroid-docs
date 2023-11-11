@@ -11,33 +11,23 @@ site_author: QCentroid
 nav:
 - 'Using the Platform' :
     - 'Getting started': platform/getting-started.md
-    - 'Navigate through the problems': platform/browse-problems.md
-    - 'How to create a problem': platform/create-problem.md
-    - 'How to create a solver': platform/create-solver.md
-    - 'How to upload data files': platform/upload-data-file.md
-    - 'How to edit an existing problem': platform/edit-problem.md
-    - 'How to update an existing solver': platform/edit-solver.md
-    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
-    - 'How to see a job results': platform/see-job-results.md
+    - 'For creators' :
+        - 'Getting started': platform/getting-started-creators.md
+        - 'How to create a problem': platform/create-problem.md
+        - 'How to create a solver': platform/create-solver.md
+        - 'How to edit an existing problem': platform/edit-problem.md
+        - 'How to update an existing solver': platform/edit-solver.md
+    - 'For consumers' :
+        - 'Getting started': platform/getting-started-consumers.md
+        - 'Navigate through the problems': platform/browse-problems.md
+        - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
+        - 'How to see a job results': platform/see-job-results.md
+        - 'How to upload data files': platform/upload-data-file.md
 - 'Using the API and SDK' :
     - 'Getting started': api/getting-started.md
     - 'Set up the SDK': api/setup-sdk.md
     - 'How to execute a problem': api/execute-problem-api.md
-- 'For creators' :
-    - 'Getting started': creators/getting-started.md
-    - 'How to create a problem': platform/create-problem.md
-    - 'How to create a solver': platform/create-solver.md
-    - 'How to upload data files': platform/upload-data-file.md
-    - 'How to edit an existing problem': platform/edit-problem.md
-    - 'How to update an existing solver': platform/edit-solver.md
-    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
-    - 'How to see a job results': platform/see-job-results.md
-- 'For consumers' :
-    - 'Getting started': consumers/getting-started.md
-    - 'Navigate through the problems': platform/browse-problems.md
-    - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
-    - 'How to see a job results': platform/see-job-results.md
-    - 'How to upload data files': platform/upload-data-file.md
+
 
 #- 'For administrators' :
 #    - 'Getting started': admins/getting-started.md

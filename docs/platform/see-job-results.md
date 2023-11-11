@@ -13,3 +13,9 @@ You will see multiple sections with information about your job:
 - ***Raw results*** The actual output of all of the solvers in their raw format
 - ***Additional output*** Any additional output file that the solvers may generate (this is an optional feature that solvers may or may not implement)
 - ***Execution logs*** The output logs provided by the solvers that can be useful for debugging
+
+## What's next
+
+:octicons-chevron-right-12: [Upload a data file](upload-data-file.md)
+
+:octicons-chevron-right-12: [Visit the creators section if you want to create your own problem or solver](getting-started-creators.md)
