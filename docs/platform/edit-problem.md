@@ -1,5 +1,7 @@
 # How to edit an existing problem
 
+## Modify a problem
+
 You can modify the problems that you created.
 
 !!! warning "Caution"

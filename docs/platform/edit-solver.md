@@ -1,5 +1,7 @@
 # How to edit and existing solver
 
+## Modify a solver
+
 You can modify the solvers that you created.
 
 !!! warning "Caution"

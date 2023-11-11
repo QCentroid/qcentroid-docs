@@ -5,7 +5,7 @@ These pages will guide you on how to **create your own problems and solvers** on
 
 ## First steps
 
-To use the Quantum Platform, you will want to start at the ***Problems*** section.
+To use the QCentroid Platform, you will want to start at the ***Problems*** section.
 
 This section shows all the Use Cases currently available on the platform.
 
