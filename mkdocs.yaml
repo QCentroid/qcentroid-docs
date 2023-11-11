@@ -14,6 +14,7 @@ nav:
     - 'Navigate through the problems': platform/browse-problems.md
     - 'How to create a problem': platform/create-problem.md
     - 'How to create a solver': platform/create-solver.md
+    - 'How to upload data files': platform/upload-data-file.md
     - 'How to edit an existing problem': platform/edit-problem.md
     - 'How to update an existing solver': platform/edit-solver.md
     - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
@@ -26,6 +27,7 @@ nav:
     - 'Getting started': creators/getting-started.md
     - 'How to create a problem': platform/create-problem.md
     - 'How to create a solver': platform/create-solver.md
+    - 'How to upload data files': platform/upload-data-file.md
     - 'How to edit an existing problem': platform/edit-problem.md
     - 'How to update an existing solver': platform/edit-solver.md
     - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
@@ -35,6 +37,7 @@ nav:
     - 'Navigate through the problems': platform/browse-problems.md
     - 'How to launch a job (execute a problem)': platform/launch-job-dashboard.md
     - 'How to see a job results': platform/see-job-results.md
+    - 'How to upload data files': platform/upload-data-file.md
 
 #- 'For administrators' :
 #    - 'Getting started': admins/getting-started.md

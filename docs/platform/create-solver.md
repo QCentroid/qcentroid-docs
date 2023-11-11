@@ -154,7 +154,7 @@ To add a new solver to the platform:
 1. Login to the platform
 2. Go to the section **My solvers** through the left side menu
 3. Then, on the top-right corner, click on the **Add new solver** button
-4. You will get the solver creation wizzard where you can perform all the required actions:
+4. You will get the solver creation wizzard where you can fill all the information of your solver:
     - Select the problem you are solving
     - Implement the solver (see [section above](#implement-the-solver-using-the-solver-template))
     - Push your solver code to your repository
