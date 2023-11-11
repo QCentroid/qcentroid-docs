@@ -38,8 +38,11 @@
   background: none;
   box-shadow: none;
 }
+.md-search__form{
+  border-radius: 3px;
+}
 .md-search__form:hover {
-  background-color: var(--md-default-fg-color--lightest);
+  background-color: var(--md-default-fg-color--light);
 }
 
 h1, h2, h3, h4{
