@@ -47,7 +47,7 @@ This action will make the problem **visible and usable again** to the rest of th
 
 !!! info "Info"
 
-    Enabling a problem engain does not enable the existing solvers for this problem. They will have to be enabled again by their respective creators.
+    Enabling a problem again does not enable the existing solvers for this problem. They will have to be enabled again by their respective creators.
 
 To enable a problem:
 
