@@ -3,6 +3,7 @@ All the jobs that you have launched are listed in the **Jobs** section.
 To see the results of a job:
 
 1. Go to the section **Jobs** through the left side menu
+1. Find the job you want to see through its execution time or **job id**
 1. Then, click on the job you want to see, to go to its detail page
 
 You will see multiple sections with information about your job:

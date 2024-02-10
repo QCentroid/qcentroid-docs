@@ -1,4 +1,4 @@
-# Setting up the SDK
+# Using the API with Postman
 
 This documentation page will be available soon.
 

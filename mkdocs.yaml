@@ -25,8 +25,13 @@ nav:
         - 'How to upload data files': platform/upload-data-file.md
 - 'Using the API and SDK' :
     - 'Getting started': api/getting-started.md
+    - 'Using cURL': 
+        - 'Getting started': api/using-curl.md
+        - 'Login': api/login-curl.md
+        - 'How to launch a job': api/launch-job-curl.md
+    - 'Using Postman': 
+        - 'Getting started': api/using-postman.md
     - 'Set up the SDK': api/setup-sdk.md
-    - 'How to execute a problem': api/execute-problem-api.md
 
 
 #- 'For administrators' :

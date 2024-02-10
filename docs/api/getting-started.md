@@ -4,6 +4,6 @@ These pages will guide you through the main features and tasks you can do throug
 
 ## What's next
 
-:octicons-chevron-right-12: [Set up the SDK](setup-sdk.md)
+:octicons-chevron-right-12: [Using the API with cURL](using-curl.md)
 
-:octicons-chevron-right-12: [Execute a problem through the API](execute-problem-api.md)
+:octicons-chevron-right-12: [Set up the SDK](setup-sdk.md)
